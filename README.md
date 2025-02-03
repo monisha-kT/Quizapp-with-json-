@@ -23,5 +23,6 @@ Sample Output:
 ---------------
 1.Main page with Question display
 ![image](https://github.com/user-attachments/assets/bae7c4a9-a98b-41ce-b025-9f8651cbb4d7)
+
 2.Score Page 
 ![image](https://github.com/user-attachments/assets/015d42d4-2ada-4e95-989c-e38d425e3ed7)
